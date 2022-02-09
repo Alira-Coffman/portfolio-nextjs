@@ -1,4 +1,5 @@
-# 🎨 Mock UPS
+# 🎨 Mockups
+created with figma <br/>
 ![about](About.png)
 ![work](work.png)
 ![services](services.png)
